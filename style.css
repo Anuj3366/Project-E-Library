@@ -225,6 +225,9 @@ FEATURES
 
 .books {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
 }
 
 .book {
